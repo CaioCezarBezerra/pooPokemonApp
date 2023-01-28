@@ -1,5 +1,5 @@
 # pooPokemonApp
 
 
-Craiando um Pokedex
+Criando um Pokedex
 Orientação com Objetos 
